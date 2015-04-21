@@ -21,6 +21,7 @@ public class MainActivity extends Activity {
 
     }
 
+    //get list of reminders from contacts database
     private List<Reminder> queryForReminders() {
         return null;
     }
